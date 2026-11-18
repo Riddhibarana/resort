@@ -1,0 +1,21 @@
+==========================================
+         RESORT PAYMENT RECEIPT
+==========================================
+Customer ID         : 14
+Customer Name       : riddhi
+Booking ID          : 158
+------------------------------------------
+Room Charges        : ₹20800.0
+Restaurant Charges  : ₹1520.0
+Game Charges        : ₹5200.0
+------------------------------------------
+Sub Total           : ₹27520.0
+GST (18%)           : ₹4953.6
+------------------------------------------
+Grand Total         : ₹3540.0
+Payment Method      : Cash
+Payment Date        : 2026-08-06
+Payment Status      : Paid
+==========================================
+        THANK YOU FOR VISITING
+==========================================

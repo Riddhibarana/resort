@@ -1,0 +1,21 @@
+==========================================
+         RESORT PAYMENT RECEIPT
+==========================================
+Customer ID         : 1
+Customer Name       : khushi
+Booking ID          : 0
+------------------------------------------
+Room Charges        : ₹0.0
+Restaurant Charges  : ₹80.0
+Game Charges        : ₹1000.0
+------------------------------------------
+Sub Total           : ₹1080.0000000000002
+GST (18%)           : ₹194.39999999999986
+------------------------------------------
+Grand Total         : ₹1274.4
+Payment Method      : Card
+Payment Date        : 2026-08-06
+Payment Status      : Paid
+==========================================
+        THANK YOU FOR VISITING
+==========================================
